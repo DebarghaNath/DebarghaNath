@@ -5,9 +5,9 @@
 🌱 Currently, I’m diving into React Native and exploring the art of living life to the fullest.
 
 💞️ I’m eager to collaborate on any full-stack projects.
-| JavaScript | Python | C++ | React | HTML |
+| JavaScript | CSS | C++ | React | HTML |
 |------------|--------|-----|-------|------|
-| ![JavaScript](URL_to_JavaScript_logo) | ![Python](URL_to_Python_logo) | ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) | ![React](URL_to_React_logo) | ![HTML](URL_to_HTML_logo) |
+| ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) | ![CSS]( https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) | ![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) | ![React](https://en.m.wikipedia.org/wiki/File:React-icon.svg) | ![HTML](https://en.m.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg) |
 
 <!---
 DebarghaNath/DebarghaNath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

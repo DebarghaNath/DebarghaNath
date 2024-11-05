@@ -5,12 +5,15 @@
   <tr>
     <td>C</td>
     <td>C++</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50" height="50" alt="C"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50" alt="C++"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50" alt="Python"></td>
   </tr>
 </table>
+
 
 
 ### Web Technology

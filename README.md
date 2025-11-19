@@ -1,4 +1,4 @@
-### ⌛️UPCOMMING SWE INTERN @GOOGLE, BANGALORE, INDIA
+### ⌛️UPCOMMING SWE @GOOGLE, INDIA
 
 ### Programming Languages
 <table>
